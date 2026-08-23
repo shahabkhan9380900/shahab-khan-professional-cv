@@ -14,7 +14,7 @@ I am currently open to international opportunities in cybersecurity, AI/ML, and 
 
 My professional resume highlights my education, research experience, technical skills, projects, publications, and experience in cybersecurity and artificial intelligence.
 
-**[View / Download Professional Resume (PDF)](./Shahab_Khan_Cybersecurity_AI_Resume.pdf)**
+[**View / Download Professional Resume (PDF)**](./Shahab_Khan%28CV%29.pdf)
 
 ---
 
