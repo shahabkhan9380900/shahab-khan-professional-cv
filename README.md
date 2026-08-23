@@ -1,89 +1,76 @@
-# Shahab Khan — Cybersecurity & AI Researcher
+# Shahab Khan — Cybersecurity & AI Professional Resume
 
-Welcome to my professional CV and research profile.
+Welcome to my professional resume repository.
 
-I am a Cybersecurity & AI researcher with an MS in Cyber Security, focused on applying Artificial Intelligence and Machine Learning to real-world cybersecurity challenges.
+I am a Cybersecurity & AI researcher with an MS in Cyber Security, with experience in Artificial Intelligence, Machine Learning, Deep Learning, Explainable AI, and cybersecurity research.
 
-I am currently seeking:
-
-- Funded PhD opportunities in Cybersecurity and Artificial Intelligence
-- Research positions and academic collaborations
-- Entry-level Cybersecurity and AI/ML opportunities
-- SOC Analyst and Junior Cybersecurity Analyst roles
+I am currently open to international opportunities in cybersecurity, AI/ML, and related technical roles.
 
 ---
 
-## 📄 CVs
+## 📄 Professional Resume
 
-### 💼 Professional Resume
+### Cybersecurity & AI Resume
 
-For cybersecurity, AI/ML, SOC Analyst, Junior Cybersecurity Analyst, and related industry opportunities.
+My professional resume highlights my education, research experience, technical skills, projects, publications, and experience in cybersecurity and artificial intelligence.
 
-**[View Professional Resume (PDF)](https://github.com/shahabkhan9380900/shahab-khan-cv/blob/main/Shahab_Khan%28CV%29.pdf)**
-
-### 🎓 Academic CV
-
-For funded PhD opportunities, research positions, academic collaborations, and research-focused roles.
-
-**[View Academic CV (PDF)](https://github.com/shahabkhan9380900/shahab-khan-cv/blob/main/Shahab_Khan_PhD_Academic_CV.pdf)**
+**[View / Download Professional Resume (PDF)](./Shahab_Khan_Cybersecurity_AI_Resume.pdf)**
 
 ---
 
-## 🔬 Research Interests
+## 💼 Target Roles
 
-- Cybersecurity
+I am interested in:
+
+- Cybersecurity Analyst
+- SOC Analyst
+- Junior Cybersecurity Analyst
+- Cybersecurity Researcher
+- AI/ML Engineer
+- Machine Learning Engineer
+- AI Research Assistant
+- Research Assistant
+- Graduate / Entry-Level Cybersecurity Roles
+- Cybersecurity & AI Internships
+
+---
+
+## 🛡️ Cybersecurity
+
+My primary cybersecurity interests include:
+
+- Intrusion Detection Systems (IDS)
+- Zero-Day Attack Detection
+- Cyber Threat Detection
+- Network Security
+- Explainable AI for Cybersecurity
+- Transformer-Based Intrusion Detection
+- Cross-Dataset Learning
+- Trustworthy AI
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+Technical areas include:
+
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
+- Transformer Architectures
 - Explainable AI (XAI)
-- Transformer-Based Intrusion Detection Systems
-- Zero-Day Attack Detection
-- Cross-Dataset Learning
-- Trustworthy AI
-- Cyber Threat Detection
-
----
-
-## 🛡️ Cybersecurity Research
-
-### Explainable Transformer-Based Intrusion Detection System for Zero-Day Cyber Attack Detection
-
-My current research focuses on developing an explainable Transformer-based Intrusion Detection System (IDS) for detecting known and previously unseen cyber attacks.
-
-The research explores:
-
-- Transformer-based intrusion detection
-- Explainable AI using SHAP
-- Zero-day attack detection
-- Cross-dataset generalization
-- Domain shift in cybersecurity datasets
-- Machine Learning and Deep Learning
-- Robust and trustworthy AI-based cybersecurity
-
-The research uses cybersecurity benchmark datasets including CICIDS2017 and CSE-CIC-IDS2018.
-
----
-
-## 🧠 AI & Machine Learning Experience
-
-My technical and research experience includes:
-
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Transformer architectures
-- Explainable AI
-- SHAP-based model interpretation
-- Computer Vision
+- SHAP
 - Ensemble Learning
+- Computer Vision
 - Classification
-- Model evaluation and performance analysis
+- Model Evaluation
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming
+
 - Python
 - C++
 - PHP
@@ -93,24 +80,27 @@ My technical and research experience includes:
 - JavaScript
 
 ### AI / Machine Learning
+
 - TensorFlow
 - Keras
 - Scikit-learn
 - Machine Learning
 - Deep Learning
-- Computer Vision
 - SHAP
+- Computer Vision
 - Ensemble Learning
 
 ### Cybersecurity
+
 - Intrusion Detection Systems
 - Zero-Day Attack Detection
 - Cyber Threat Detection
 - Network Security
-- Cross-Dataset Learning
 - Explainable AI for Cybersecurity
+- Cross-Dataset Learning
 
 ### Tools
+
 - Jupyter Notebook
 - Anaconda
 - Git
@@ -120,35 +110,46 @@ My technical and research experience includes:
 
 ---
 
-## 🧪 Selected Research & Projects
+## 🔬 Selected Research
 
-### Explainable Transformer-Based Intrusion Detection System
+### Explainable Transformer-Based Intrusion Detection System for Zero-Day Cyber Attack Detection
 
-AI-based cybersecurity research framework designed to detect cyber attacks using Transformer-based deep learning, explainable AI, and cross-dataset learning.
+Developing an explainable Transformer-based Intrusion Detection System for detecting known and previously unseen cyber attacks.
 
-### Brain Tumor Identification Using Ensemble Learning
+The research explores:
 
-Developed a Python-based desktop application for automated brain tumor identification from MRI images using CNN, Random Forest, SVM, KNN, Logistic Regression, and accuracy-weighted soft voting.
+- Transformer-based intrusion detection
+- Explainable AI using SHAP
+- Zero-day attack detection
+- Cross-dataset generalization
+- Domain shift in cybersecurity datasets
+- Robust and trustworthy AI
 
-The research achieved strong classification performance on validation and unseen test data.
+The research uses cybersecurity benchmark datasets including CICIDS2017 and CSE-CIC-IDS2018.
+
+---
+
+## 🧠 Selected AI Projects
+
+### Brain Tumor Identification Using Ensemble Learning Models
+
+Developed a Python-based desktop application for automated brain tumor identification from MRI images using CNN, Random Forest, SVM, KNN, and Logistic Regression models with an accuracy-weighted soft-voting ensemble.
+
+The project demonstrates practical experience in:
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Feature Extraction
+- Ensemble Learning
+- Model Evaluation
+- Python Application Development
 
 ### Leukemia Classification Using CNN
 
 Co-authored research involving convolutional neural networks for leukemia subtype classification from peripheral blood smear images.
 
 Published in 2026.
-
----
-
-## 📚 Publications
-
-### Brain Tumor Identification on MR Images Using Ensemble Learning Models
-
-Research involving machine learning, deep learning, feature extraction, and ensemble learning for automated brain tumor identification from MRI images.
-
-### Acute Lymphoblastic Leukemia Subtype Classification Using Convolutional Neural Networks on Peripheral Blood Smear Images
-
-Co-authored research applying CNN-based deep learning techniques to leukemia subtype classification.
 
 ---
 
@@ -164,22 +165,23 @@ European University of Lefke, Cyprus
 
 ---
 
-## 🌍 Opportunities
+## 📚 Publications
+
+### Brain Tumor Identification on MR Images Using Ensemble Learning Models
+
+Research involving machine learning, deep learning, feature extraction, and ensemble learning for automated brain tumor identification from MRI images.
+
+### Acute Lymphoblastic Leukemia Subtype Classification Using Convolutional Neural Networks on Peripheral Blood Smear Images
+
+Co-authored research applying CNN-based deep learning techniques to leukemia subtype classification.
+
+---
+
+## 🌍 Open to International Opportunities
 
 I am open to international opportunities in:
 
-- Funded PhD Programs
-- Cybersecurity Research
-- Artificial Intelligence Research
-- Machine Learning Research
-- Cybersecurity Analyst
-- SOC Analyst
-- Junior Cybersecurity Analyst
-- AI/ML Engineer
-- Research Assistant
-- Graduate Research Positions
-
-I am particularly interested in opportunities involving Cybersecurity, AI, Explainable AI, Intrusion Detection Systems, Zero-Day Detection, Transformers, and Trustworthy AI.
+**Cybersecurity • Artificial Intelligence • Machine Learning • Explainable AI • Intrusion Detection • Zero-Day Detection • SOC Operations • Cyber Threat Detection**
 
 ---
 
@@ -190,12 +192,6 @@ I am particularly interested in opportunities involving Cybersecurity, AI, Expla
 
 **GitHub:**  
 [shahabkhan9380900](https://github.com/shahabkhan9380900)
-
----
-
-## 📩 Contact
-
-For PhD opportunities, research collaboration, cybersecurity positions, AI/ML opportunities, or academic collaboration, please connect with me through LinkedIn.
 
 ---
 
